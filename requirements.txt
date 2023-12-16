@@ -1,0 +1,4 @@
+Pillow==10.1.0
+pyscreenshot==3.1
+tk==0.1.0
+os-sys==2.1.4
